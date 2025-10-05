@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Assignment_02 
 {
-    public class Class4
+   static class Class4
     {
-        public Class4()
+        public static void method()
         {
             // Ask user for a valid number
             while (true)
@@ -36,3 +36,4 @@ namespace Assignment_02
         } }
 }
 }
+
