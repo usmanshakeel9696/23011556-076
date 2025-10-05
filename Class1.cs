@@ -2,9 +2,9 @@
 
 namespace Assignment_02
 {
-    public class Class1
+  static class Class1
     {
-  
+  public static void method()
         {
             // Even or odd checker
             while (true)
@@ -32,6 +32,7 @@ namespace Assignment_02
 
             Console.WriteLine("\nPress any key to return to the main menu...");
             Console.ReadKey();
-        }
+        }}
     }
 }
+
