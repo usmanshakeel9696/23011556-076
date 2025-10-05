@@ -1,11 +1,12 @@
 ﻿using System;
 
 namespace Assignment_02
-public class Class3
 {
-
+static class Class3
+{
+   public static void method()
 	
-        static void Main(string[] args)
+       
         {
             Console.WriteLine("Grade Evaluator");
 
@@ -46,3 +47,4 @@ public class Class3
         }
     }
 
+}
