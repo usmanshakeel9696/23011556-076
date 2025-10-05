@@ -2,9 +2,9 @@
 
 namespace Assignment_02
 {
-	public class Class7
+static class Class7
 	{
-		public Class7()
+		public static void method()
 		{
             int number = int.Parse(Console.ReadLine());
 
@@ -24,4 +24,5 @@ namespace Assignment_02
         }
     }
 	}
+
 }
