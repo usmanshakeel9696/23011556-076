@@ -2,9 +2,9 @@
 
 namespace Assignment_02
 {
-	public class Class5
+	static class Class5
 	{
-		public Class5()
+	 public	static void method()
 		{
             int number;
 
@@ -37,4 +37,5 @@ namespace Assignment_02
         }
     }
 	}
+
 }
