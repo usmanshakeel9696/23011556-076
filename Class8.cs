@@ -2,9 +2,9 @@
 
 namespace Assignment_02
 {
-	public class Class8
+	static class Class8
 	{
-		public Class8()
+		public static void method()
 		{
             int[] numbers = new int[10];
 
@@ -51,3 +51,4 @@ namespace Assignment_02
     }
 
 }
+
