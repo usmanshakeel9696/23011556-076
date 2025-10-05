@@ -1,8 +1,8 @@
 ﻿using System;
-
-public class Class10
+namespace Assignment_02
+static class Class10
 {
-	public Class10()
+	public static void method()
 	{
         int[] numbers = new int[10];
 
@@ -59,3 +59,4 @@ public class Class10
     }
 }
 }
+
