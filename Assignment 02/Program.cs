@@ -6,6 +6,8 @@ namespace Assignment_02
     {
         static void Main(string[] args)
         {
+            Class1.method();
+            
         }
     }
 }
