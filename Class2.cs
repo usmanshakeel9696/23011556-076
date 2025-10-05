@@ -2,9 +2,9 @@
 
 namespace Assigment_02
 {
-     public class Class2
+ static class Class2
     {
-        static void Main(string[] args)
+      public  static void method()
         {
             Console.WriteLine("Simple Calculator\n");
 
@@ -69,3 +69,4 @@ namespace Assigment_02
         }
     }
 }
+
